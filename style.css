@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    background: #147F9D;
+    background: linear-gradient(to left, #147F9D, #102792);
+
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+button:hover {
+    box-shadow: 0px 0px 5px 2px rgb(0, 179, 255);
+}
+
+.workout{
+    margin: 10px;
+    padding: 10px;
+    height:400px;
+    color: transparent;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    color: black;
+    font-size: 1.2rem;
+ }
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    color:white;
+    font-size: 1.2rem;
+    text-align: left;
+}
