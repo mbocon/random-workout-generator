@@ -12,3 +12,7 @@
 
 If you'd like to contribute to this project, please generate a pull request.
 
+## Getting Started
+
+
+Visit site --> [Random Workout Generator](https://tomorrowagain.netlify.app/)
